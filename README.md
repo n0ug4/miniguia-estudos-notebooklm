@@ -3,8 +3,11 @@ Um guia para estudar Utilização de IA na Governança de TI
 
 **Contexto e objetivos**
 
-Criar uma fonte de dados estruturados para estudar sobre o tema: Utilização da IA na Governança de TI
-Curadoria e fontes
+A implementação de IA exige ir além da regulamentação técnica, focando em ética, transparência e mitigação de riscos, como vieses e vazamentos de dados. Há uma forte ênfase nas oportunidades de carreira e alta remuneração para profissionais que dominam a conformidade e a gestão desses sistemas. No Brasil, o cenário é impulsionado pelo Marco Legal da IA (PL 2338) e pela necessidade de alinhar inovação tecnológica à proteção de direitos fundamentais. 
+
+Diante disso meu objetivo é criar uma fonte de dados estruturados para estudar sobre o tema: Utilização da IA na Governança de TI
+
+**Curadoria e fontes**
  
  **Fontes de vídeo**
  
