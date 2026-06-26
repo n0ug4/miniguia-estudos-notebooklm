@@ -145,3 +145,10 @@ A governança de IA é um campo vivo. Comece sempre perguntando: "Qual problema 
 
 Nunca implemente IA apenas pelo hype; faça-o com base em dados íntegros e com a supervisão humana sempre no controle final (Human-in-the-loop)
 
+Links criados pela IA sobre o assunto.
+
+- Vídeo A lacuna de Gonvernança de IA: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/9abd268f-7d91-45be-b6bc-1bdfc07ab28e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+  - Mapa mental: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/f74721b4-b323-4833-b48a-2c51e7a0177e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+  - Infográfico: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/f74721b4-b323-4833-b48a-2c51e7a0177e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
