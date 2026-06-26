@@ -2,6 +2,7 @@
 Um guia para estudar Utilização de IA na Governança de TI
 
 **Contexto e objetivos**
+
 Criar uma fonte de dados estruturados para estudar sobre o tema: Utilização da IA na Governança de TI
 Curadoria e fontes
  
