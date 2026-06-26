@@ -147,8 +147,49 @@ Nunca implemente IA apenas pelo hype; faça-o com base em dados íntegros e com 
 
 Links criados pela IA sobre o assunto.
 
-- Vídeo A lacuna de Gonvernança de IA: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/9abd268f-7d91-45be-b6bc-1bdfc07ab28e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+- Vídeo A lacuna de Gonvernança de IA:
+  https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/9abd268f-7d91-45be-b6bc-1bdfc07ab28e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
-  - Mapa mental: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/f74721b4-b323-4833-b48a-2c51e7a0177e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+- Mapa mental: 
+https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/6ff4968c-fda8-46dc-835a-c123fe55841e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
-  - Infográfico: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/f74721b4-b323-4833-b48a-2c51e7a0177e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+- Infográfico: https://notebooklm.google.com/notebook/fb812fb5-2de8-40f7-881a-0a7a26e05d76/artifact/f74721b4-b323-4833-b48a-2c51e7a0177e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+**Sugestões de prompts para atualizar o conteúdo**
+
+Para apoiar suas futuras revisões e consolidar seu conhecimento como um líder em Governança de IA, estruturei este conjunto de prompts reutilizáveis divididos por áreas críticas, permitindo que você extraia o máximo valor das fontes e ferramentas de estudo.
+
+1. Prompts de Fundamentos e Estratégia
+Contextualização Histórica: "Explique a transição da governança de TI tradicional para a governança de IA, destacando como o comportamento não determinístico e a opacidade dos modelos alteram o paradigma de controle
+"
+Alinhamento Estratégico: "Com base no COBIT 2019, descreva como os objetivos de governança (domínio EDM) e de gestão (domínios APO, BAI, DSS e MEA) devem ser adaptados para garantir que as iniciativas de IA gerem valor e otimizem riscos
+"
+O Papel da Liderança: "Quais são as responsabilidades específicas do Conselho de Administração e do DPO na supervisão de sistemas de IA para evitar a fragmentação da governança
+?"
+2. Prompts de Frameworks e Normas
+Integração de Frameworks: "Como o framework NIST AI RMF e a norma ISO/IEC 42001 se complementam na criação de um Sistema de Gestão de Inteligência Artificial (SGIA) focado em mapear, medir e gerenciar riscos
+?"
+Princípios do ITIL 4: "Explique como os sete princípios orientadores do ITIL 4 podem ser aplicados para cocriar valor em serviços 'nativos de IA', garantindo transparência e foco no feedback do usuário
+."
+Conformidade Normativa: "Resuma os requisitos de documentação técnica e transparência exigidos pelo Marco Legal da IA no Brasil (PL 2338) e pelo AI Act da União Europeia
+."
+3. Prompts de Gestão de Riscos e Ética
+Avaliação de Impacto: "Crie um roteiro para a realização de uma Avaliação de Impacto Algorítmico (AIA), focando nos direitos dos titulares e na mitigação de consequências adversas para a sociedade
+."
+Combate ao Viés: "Descreva técnicas e controles de governança para detectar e mitigar o viés algorítmico em modelos de recrutamento ou análise de crédito, utilizando o conceito de Ethics by Design
+."
+Explicabilidade (XAI): "Por que a Inteligência Artificial Explicável (XAI) é fundamental para converter modelos de 'caixa-preta' em sistemas auditáveis e confiáveis para reguladores e executivos
+?"
+4. Prompts de Implementação Prática e Operações
+Mapeamento e Inventário: "Quais perguntas devem ser respondidas ao criar um inventário de casos de uso de IA para identificar a existência de Shadow AI na organização
+?"
+Segurança e Dados: "Como a Governança de Dados (qualidade, linhagem e privacidade) serve como base indispensável para o treinamento e operação de modelos de IA seguros e em conformidade com a LGPD
+?"
+Monitoramento e Drift: "Estabeleça um plano de monitoramento contínuo para sistemas de IA em produção, definindo indicadores para detectar desvios de precisão (data drift) e anomalias em tempo real
+."
+5. Prompts de Liderança e Carreira
+Business Case: "Como estruturar um business case para um projeto de IA que equilibre a eficiência operacional (automação) com os custos de conformidade e riscos reputacionais
+?"
+Upskilling: "Quais competências multidisciplinares um profissional de GRC (Governança, Risco e Conformidade) deve desenvolver para se tornar um AI Governance Leader
+?"
+Cultura Organizacional: "Proponha uma estratégia de treinamento e conscientização para funcionários sobre o uso seguro de IAs generativas públicas, focando na proteção de segredos industriais e dados sensíveis.
