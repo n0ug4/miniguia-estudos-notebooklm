@@ -1,5 +1,5 @@
 # Miniguia-estudos-notebooklm
-Um guia para estudar Utilização de IA na Governança de TI
+Um guia para estudar o tema: Utilização de IA na Governança de TI
 
 **Contexto e objetivos**
 
