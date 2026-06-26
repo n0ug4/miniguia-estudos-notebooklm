@@ -40,45 +40,45 @@ Sou um estudante do tema Utilização da IA na Governança de TI e quero que voc
 **Glossário de Governança de IA**
 
 AIOps (AI Operations): Segmento que utiliza a própria inteligência artificial para gerenciar operações, ferramentas, dados e governança de outros sistemas de TI
-.
+
 Algoritmo: Um processo automatizado que realiza a tomada de decisão ou a filtragem de informações através de um conjunto de regras lógicas
-.
+
 Auditabilidade: A capacidade de verificar e rastrear o caminho que a IA percorreu para chegar a uma determinada decisão, permitindo a identificação de erros
-.
+
 Avaliação de Impacto Algorítmico (AIA): Processo (muitas vezes obrigatório para sistemas de alto risco) de análise das consequências que a implantação de uma IA pode trazer para indivíduos e sociedade, considerando tanto o uso pretendido quanto o possível mau uso
-.
+
 Caixa-Preta (Black-box): Fenômeno em que as decisões de um modelo de IA ocorrem em camadas ocultas, impossibilitando que humanos compreendam visualmente ou logicamente como o sistema chegou a um resultado
-.
+
 Ciclo de Vida da IA: Conjunto de estágios de um sistema de IA que deve ser governado, incluindo estratégia, design, desenvolvimento, validação, implantação, operação, monitoramento contínuo e descarte
-.
+
 COBIT 2019: Framework de governança de I&T que atua como o "motor" para alinhar as iniciativas de IA aos objetivos estratégicos do negócio através de processos auditáveis
-.
+
 Curadoria de IA: Processo de seleção, supervisão e validação criteriosa dos dados de treinamento para garantir que a IA não aprenda com informações imprecisas ou inadequadas
-.
+
 Data Drift (Desvio de Dados): Mudanças inesperadas nos padrões dos dados de entrada que ocorrem após a implantação, podendo degradar a precisão e a confiabilidade do modelo ao longo do tempo
-.
+
 Ethics/AI by Design: Princípio que defende a construção da governança e da ética desde a concepção inicial de um projeto de IA, em vez de tentá-las adaptar após o desenvolvimento
-.
+
 Explicabilidade (XAI - Explainable AI): Conjunto de técnicas e métodos que permitem que os resultados de modelos complexos de IA sejam compreensíveis e interpretáveis por seres humanos
-.
+
 Governança de IA: Conjunto de políticas, processos e responsabilidades que orienta como uma organização adota, utiliza e monitora sistemas de IA de forma ética, segura e em conformidade
-.
+
 Human-in-the-Loop (Supervisão Humana): Exigência de que um ser humano mantenha a autoridade final sobre as decisões tomadas pela IA, podendo intervir, anular ou interromper o sistema
-.
+
 IA Generativa: Tipo de IA que cria novos conteúdos (como textos, imagens ou códigos) a partir de padrões aprendidos em vastas bases de dados
-.
+
 ISO/IEC 42001: O primeiro padrão internacional certificável que estabelece requisitos para um Sistema de Gestão de Inteligência Artificial (SGIA)
-.
+
 ITIL 4: Framework de gerenciamento de serviços digitais que trata a IA de forma nativa para otimizar fluxos de valor e melhorar a experiência do usuário
-.
+
 NIST AI RMF: Estrutura de Gestão de Riscos de IA que foca em três funções principais: Mapear, Medir e Gerenciar riscos tecnológicos
-.
+
 Prompt: Instrução ou comando de entrada fornecido pelo usuário a uma IA para gerar uma resposta específica
-.
+
 Shadow AI (IA nas Sombras): Uso de sistemas ou ferramentas de IA por colaboradores de forma individual, sem a coordenação, conhecimento ou aprovação das áreas formais de TI e GRC
-.
+
 Viés Algorítmico (Bias): Erros sistemáticos ou preconceitos herdados dos dados de treinamento que levam a resultados discriminatórios ou injustos para determinados grupos
-.
+
 
 
 **Resumo para o aprendizado de acordo com o prompt **
