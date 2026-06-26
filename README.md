@@ -30,4 +30,5 @@ Curadoria e fontes
  https://www.tce.pr.gov.br/data/files/DC/22/A5/AD/5E09C910148FE7B9026B6394/Cartilha_Governanca_e_Uso_de%20IA_30_01_2026.pdf
 
 **Engenharia de prompts e cicatrizes**
+
 Sou um estudante do tema Utilização da IA na Governança de TI e quero que você me responda como um professor especialista neste tema, sendo assim, baseado nas fontes disponibilizadas crie uma metodologia didática e prática de aprendizado do básico ao avançado para que o Aluno que não conheça o tema possa entender de forma simples e clara.
